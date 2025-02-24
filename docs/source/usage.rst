@@ -6,29 +6,23 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use TymonK, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install tymonK
 
 Creating recipes
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To retrieve Hello wordl, Tymon Kołpowski,
+you can use the ``tymonK.hello_world()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+.. autofunction:: tymonK.hello_world()
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import tymonK
+>>> tymonK.hello_world()
+Hello world, Tymon Kołpowski
 
