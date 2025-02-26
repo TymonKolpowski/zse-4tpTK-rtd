@@ -1,4 +1,4 @@
-.. _start:
+.. _start::
 
 - Nagłówki tekstowe (poziomy 1-4)
 
