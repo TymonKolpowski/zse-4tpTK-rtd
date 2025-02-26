@@ -1,18 +1,24 @@
 - Nagłówki tekstowe (poziomy 1-4)
 
-.. _start:
+.. _test:
 
 ==========
 Nagłówek poziomu 1
 ==========
+
 Nagłówek poziomu 2
 ==========
+
 Nagłówek poziomu 3
 ----------
+
 Nagłówek poziomu 4
 ^^^^^^^^^^
+
 - Akapit tekstowy (treść)
+
 Akapit tekstowy andkjsandkjna
+
 - Akapit informacyjny (Note, Tip)
 
 .. note::
@@ -31,7 +37,7 @@ Akapit tekstowy andkjsandkjna
 
 - Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
-lokalny :ref:`start`
+lokalny :ref:`test`
 
 link `zewnetrzny <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tp&load=43>`_
 
