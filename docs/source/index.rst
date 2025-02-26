@@ -1,10 +1,6 @@
-.. _start:
-   Test
-
-.. _start2:
-test2
-
 - Nagłówki tekstowe (poziomy 1-4)
+
+.. _start:
 
 ==========
 Nagłówek poziomu 1
@@ -36,8 +32,6 @@ Akapit tekstowy andkjsandkjna
 - Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
 
 lokalny :ref:`start`
-
-lokalny :ref:`start2`
 
 link `zewnetrzny <https://edu.gplweb.pl/?svc=courses&id=tida&lesson=14&class=4tp&load=43>`_
 
